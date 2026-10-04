@@ -1,2 +1,2 @@
-# basic-todo-app
-Todo List Application đơn giản được xây dựng với HTML, CSS và Javascript
+# Task Management Application
+Task Management Application là ứng dụng quản lý công việc được xây dựng bằng HTML, CSS, Javascript
